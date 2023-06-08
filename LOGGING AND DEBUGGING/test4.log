@@ -1,0 +1,16 @@
+INFO 2023-01-25 13:47:48,145 root  i am trying to read a file 
+CRITICAL 2023-01-25 13:47:48,146 root  this is a situatoin for us 
+ERROR 2023-01-25 13:47:48,146 root  [Errno 2] No such file or directory: 'sudh.txt'
+ERROR 2023-01-25 13:47:48,146 root  [Errno 2] No such file or directory: 'sudh.txt'
+Traceback (most recent call last):
+  File "C:\Users\sinha\PycharmProjects\LOGGING-AND-DEBUGGING\test4.py", line 7, in <module>
+    with open("sudh.txt" , "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'sudh.txt'
+INFO 2023-01-25 15:11:14,128 root  i am trying to read a file 
+CRITICAL 2023-01-25 15:11:14,129 root  this is a situatoin for us 
+ERROR 2023-01-25 15:11:14,129 root  [Errno 2] No such file or directory: 'sudh.txt'
+ERROR 2023-01-25 15:11:14,132 root  [Errno 2] No such file or directory: 'sudh.txt'
+Traceback (most recent call last):
+  File "C:\Users\sinha\PycharmProjects\LOGGING-AND-DEBUGGING\test4.py", line 7, in <module>
+    with open("sudh.txt" , "r"):
+FileNotFoundError: [Errno 2] No such file or directory: 'sudh.txt'

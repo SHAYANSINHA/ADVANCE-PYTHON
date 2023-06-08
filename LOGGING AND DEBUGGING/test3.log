@@ -1,0 +1,11 @@
+INFO 2023-01-25 15:18:37,690 root  the number entered by user is 3 and 2
+INFO 2023-01-25 15:18:37,690 root  we are into function
+INFO 2023-01-25 15:18:37,691 root  we have completed a division operation
+INFO 2023-01-25 15:18:37,691 root  result of code is 1.5 
+INFO 2023-01-25 15:19:08,288 root  the number entered by user is 3 and 0
+INFO 2023-01-25 15:19:08,288 root  we are into function
+ERROR 2023-01-25 15:19:08,288 root  division by zero
+Traceback (most recent call last):
+  File "C:\Users\sinha\PycharmProjects\LOGGING-AND-DEBUGGING\test3.py", line 9, in devide
+    div = a /b
+ZeroDivisionError: division by zero
